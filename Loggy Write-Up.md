@@ -13,6 +13,7 @@ The extension is quite important because the malware is written in Go language. 
 ### Setting Up Extension for Ghidra
 Here I'll show you how to install the extension into Ghidra.
 ![Ghidra Install Extension](imgs/ghidrainstall.png)
+
 Make sure that you are on the right window for Ghidra. The Ghidra window for your project does not have the "Install Extension" in the File tab. 
 I spent too long trying to find that tab for this lol. 
 Next, download the correct GolangAnalyzerExtension.zip according to your Ghidra's version, it has to match or else you will encounter problems later on.
